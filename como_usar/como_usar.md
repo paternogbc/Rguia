@@ -13,11 +13,10 @@ Para facilitar uso deste livro cada capítulo foi dividido em cinco partes:
 
 5. __Diagnóstico:__ comandos para avaliar as premissas e/ou a robustez dos resultados  
 
-No final do livro, inclui uma breve introdução ao pacote __dplyr__ para manipulação de dados e tabelas no R.
+***
+
+No final do livro inclui um capítulo com uma breve introdução aos comandos essenciais do R para manipulação de dados e tabelas. 
 
 Em caso de dúvida, abra uma novo [issue](https://github.com/paternogbc/Rguia/issues) no github e deixe um comentário indicando o capítulo e a seção do livro que você não entendeu. Para sugerir modificações ou erros nos comandos entre em contato, ou abra um novo [pull request](https://github.com/paternogbc/Rguia/pulls) com suas modificações.
 
 ***
-
-
-
