@@ -10,6 +10,7 @@ opts_chunk$set(prompt=TRUE, comment='', results='markup')
 # example 1
 
 ```{r}
-plot(1:100)
+qplot(1:100)
 ```
+
 
