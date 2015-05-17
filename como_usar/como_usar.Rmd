@@ -7,14 +7,20 @@ opts_chunk$set(prompt=TRUE, comment='', results='markup')
 
 Para facilitar uso deste livro cada capítulo foi dividido em cinco partes:  
 
-* __Script:__ comandos para realizar determinada análise
-* __Explicação:__ explicação teórica da análise
-* __Exemplos:__ alguns exemplos para elucidar o uso da análise com dados reais
-* __Gráficos:__ comandos para representar os resultados graficamente
-* __Diagnóstico:__ comandos para avaliar as premissas e/ou robustez dos resultados
+1. __Script:__ comandos necessários para realizar uma determinada análise  
 
-Em caso de dúvida, abra uma novo [issue]() no github, e deixe um comentário indicando o capítulo e a seção do livro que você não entendeu. Para sugerir modificações ou erros entre em contato, ou abra um novo [pull request]() com suas modificações.
+2. __Explicação:__ breve descrição teórica da análise  
+
+3. __Exemplos:__ alguns exemplos para elucidar o uso da análise com dados reais ou simulados
+
+4. __Gráficos:__ comandos para representar os resultados graficamente  
+
+5. __Diagnóstico:__ comandos para avaliar as premissas e/ou a robustez dos resultados  
+
 ***
 
+No final do livro inclui um capítulo com uma breve introdução aos comandos essenciais do R para manipulação de dados e tabelas. 
 
+Em caso de dúvida, abra uma novo [issue](https://github.com/paternogbc/Rguia/issues) no github e deixe um comentário indicando o capítulo e a seção do livro que você não entendeu. Para sugerir modificações ou erros nos comandos entre em contato, ou abra um novo [pull request](https://github.com/paternogbc/Rguia/pulls) com suas modificações.
 
+***
