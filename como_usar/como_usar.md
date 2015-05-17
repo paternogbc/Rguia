@@ -1,0 +1,16 @@
+
+# Como usar este livro
+
+Para facilitar uso deste livro cada capítulo foi dividido em cinco partes:  
+
+    * __Script:__ comandos para realizar determinada análise
+    * __Explicação:__ explicação teórica da análise
+    * __Exemplos:__ alguns exemplos para elucidar o uso da análise com dados reais
+    * __Gráficos:__ comandos para representar os resultados graficamente
+    * __Diagnóstico:__ comandos para avaliar as premissas e/ou robustez dos resultados
+
+Em caso de dúvida, abra uma novo [issue]() no github, e deixe um comentário indicando o capítulo e a seção do livro que você não entendeu. Para sugerir modificações ou erros entre em contato, ou abra um novo [pull request]() com suas modificações.
+***
+
+
+
